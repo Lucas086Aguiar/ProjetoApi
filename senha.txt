@@ -1,0 +1,4 @@
+uzIVIZoNLzKfFkFf
+
+//links
+mongodb+srv://llucaspapel:uzIVIZoNLzKfFkFf@usuarios.qw5dc.mongodb.net/usuarios?retryWrites=true&w=majority&appName=usuarios
